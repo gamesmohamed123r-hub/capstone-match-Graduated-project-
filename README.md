@@ -436,19 +436,11 @@ This project is licensed under the **MIT License** - see LICENSE file for detail
 
 - **Mohamed** - Junior Full-Stack Developer
 - **Project**: Capstone Match System
-- **Institution**: [Your University Name]
+- **Institution**: [High Institute for Management and Information Technology (HIMIT), Egypt]
 - **Year**: 2026
 
 ---
 
-## 📧 Support & Contact
-
-For questions, issues, or feature requests:
-- 📧 Email: gamesmohamed123r@gmail.com
-- 🐙 GitHub Issues: [Create an issue](https://github.com/yourusername/capstone-match/issues)
-- 💬 Discussion Forum: [Discussions](https://github.com/yourusername/capstone-match/discussions)
-
----
 
 ## 🎓 Academic Defense Points
 
@@ -461,15 +453,6 @@ When presenting this project, emphasize:
 5. **Real-World Application** - Solves actual educational institution problem
 6. **Technical Skills** - Demonstrates PHP, MySQL, MVC architecture, algorithm design
 
----
-
-## 🔄 Version History
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-06-20 | Initial release with core matching algorithm |
-| 1.1.0 | 2026-07-15 | Added transaction safety and bug fixes |
-| 1.2.0 | 2026-09-18 | Comprehensive documentation and video tutorial |
 
 ---
 
