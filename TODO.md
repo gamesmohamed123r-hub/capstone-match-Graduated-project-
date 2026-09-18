@@ -1,0 +1,1 @@
+# Task: Center logo in index.php using Bootstrap 5\n\n- [x] Step 1: Edit index.php to fix navbar-brand class (change 'align-item-center' to 'align-items-center mx-auto')\n- [x] Step 2: Verify edit and test in browser\n- [x] Step 3: Complete task
