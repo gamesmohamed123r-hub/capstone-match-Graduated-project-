@@ -1,6 +1,5 @@
 # Capstone Match - Automated Graduation Project Recommendation System
 
-![Capstone Match Banner](https://via.placeholder.com/1200x400/4CAF50/FFFFFF?text=Capstone+Match+System)
 
 ## 📋 Project Overview
 
