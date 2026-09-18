@@ -406,22 +406,6 @@ capstone-match/
 
 ---
 
-## 📹 Video Tutorial
-
-For detailed setup and usage walkthrough, watch our comprehensive tutorial:
-
-📺 **[Capstone Match - Complete Setup & Usage Guide](YOUR_GOOGLE_DRIVE_LINK_HERE)**
-
-In this video, you'll learn:
-- ✅ Database setup and configuration
-- ✅ Adding students and projects
-- ✅ Running the matching algorithm
-- ✅ Viewing recommendations and scores
-- ✅ Managing groups and assignments
-- ✅ Troubleshooting common issues
-
----
-
 ## 📊 Algorithm Performance
 
 - **Average Matching Time**: < 0.5 seconds for 100+ students
@@ -460,7 +444,7 @@ This project is licensed under the **MIT License** - see LICENSE file for detail
 ## 📧 Support & Contact
 
 For questions, issues, or feature requests:
-- 📧 Email: your.email@example.com
+- 📧 Email: gamesmohamed123r@gmail.com
 - 🐙 GitHub Issues: [Create an issue](https://github.com/yourusername/capstone-match/issues)
 - 💬 Discussion Forum: [Discussions](https://github.com/yourusername/capstone-match/discussions)
 
